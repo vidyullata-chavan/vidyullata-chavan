@@ -1,18 +1,22 @@
 ## 👋 Hi, I'm Vidyullata Chavan
 
-Lead Project Engineer with experience in building scalable backend systems using:
+Lead Software Engineer with experience in building scalable fullstack applications using:
 
 - Java 21, Spring Boot 3
 - MongoDB, SQL
 - REST APIs, Swagger
+- Angular 21, RxJS, NgRx
+- Angular Material, PrimeNG
 - Azure, Kubernetes (AKS)
 - CI/CD pipelines
-
-### Featured Projects
+<!--
+### Featured Projects (Commenting out since following project repositories are yet to be created.)
+- Real-Time Stock Market Dashboard (Angular 21 + NgRx + RxJS)
+- Smart Task Manager (Angular 21 + Angular Material)
 - Order Management System (Spring Boot + MongoDB)
 - Employee Management API (Spring Boot + SQL)
 - DevOps CI/CD Demo (Docker, Kubernetes, GitHub Actions)
-
+-->
 📫 Reach me on: LinkedIn | Email
 
 <!--
